@@ -1,0 +1,6 @@
+Hi there!
+Here are a tiny CSS Framework that contains 2 variants of button styling.
+Main idea was: create nice looking buttons without any images, only CSS3.
+I have few ideas to make some CSS3 transitions/animations, but i need more time for this stuff.
+This code tested on IE6/Opera 11+/FF6+/Safari 5+/ and God knows where else more :)
+I think there are can be minor bugs. I need just a little free time for find and fix tham all.
